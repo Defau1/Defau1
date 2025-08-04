@@ -26,8 +26,11 @@
 🖥️ Technical Support: Troubleshooting corporate IT issues and configuring equipment.
 
 Tech Stack
+
 🔹 Frontend: Angular, TypeScript, RxJS, HTML/CSS
+
 🔹 DevOps: Docker, CI/CD (GitHub Actions)
+
 🔹 Tools: Git, Jira, WebStorm
 
 # 📊 GitHub Stats:
